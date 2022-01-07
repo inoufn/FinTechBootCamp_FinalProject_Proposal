@@ -8,7 +8,7 @@
 ### - Nouf Almekawed
 ### - Zainab Aldagdoug
 ### - Reem Alrashidy
-### - Kaloud Hurayb
+### - Khaloud Hurayb
 ### - Sara Zubayen
 ### - Afnan Albaqami
 
